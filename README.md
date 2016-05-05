@@ -1,0 +1,1 @@
+# ng-conf-koj-lib
